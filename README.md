@@ -1,1 +1,1 @@
-# techdegree-randomQuoteGenerator
+# Techdegree Project 1
