@@ -16,29 +16,33 @@ project 1 - A Random Quote Generator
 ***/
 var quotes = [
     {  quote: 'It’s not the daily increase but daily decrease. Hack away at the unessential.',
-       source: 'Bruce Lee',
+       source: '- Bruce Lee',
        tag: 'focus'
     },
     {  quote: "Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.",
-       source: 'Michael Scott',
+       source: '- Michael Scott',
        citation: 'The Office, U.S. television series, episode 47',
        year: 2007,
        tag: 'funny'
      },
     {  quote:"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.",
-        source: 'Lao Tzu',
+        source: '- Lao Tzu',
         tag: 'inspirational',
       },
     {  quote:"The goal is not to be better than the other man, but your previous self.",
-         source: 'The Dalai Lama',
+         source: '- The Dalai Lama',
          tag: 'inspirational',
        },
      {  quote:"If you're not first, you're last.",
-          source: 'Ricky Bobby',
-          citation: 'Talladega Nights, film',
+          source: '- Ricky Bobby',
+          citation: 'Talladega Nights',
           year: 2006,
           tag: 'inspirational',
-        }
+        },
+    {  quote:"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
+       source: '– Helen Keller',
+       tag: 'inspirational',
+           }
 ];
 
 
