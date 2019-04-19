@@ -52,7 +52,16 @@ var quotes = [
    - Create a variable to store a random number
    - Cse the random number to `return` a random quote object from the `quotes` array.
 ***/
-
+function getRandomQuote (list){
+  var ranNum = Math.floor(Math.random() * quotes.length);
+  var ranQuote;
+  for (i= 0; i<=quotes.length; i+=1){
+    ranNum[i]
+  };
+  ranQuote = quotes[ranNum];
+  return ranQuote;
+};
+console.log(getRandomQuote(quotes));
 
 
 
