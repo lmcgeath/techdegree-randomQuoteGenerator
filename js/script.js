@@ -3,8 +3,6 @@ Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
 ******************************************/
 
-//Trying for 'exceeds expectations' grade but I welcome any and all feedback
-
 /*An array of quotes to be cycled through and displayed to the page*/
 var quotes = [
     {  quote: 'It’s not the daily increase but daily decrease. Hack away at the unessential.',
